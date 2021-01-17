@@ -1,0 +1,20 @@
+@import url("");
+.imgstyle {
+  width: 200px;
+  height: 300px;
+  text-align: center;
+}
+
+.mainpage {
+  width: "90%";
+  height: "100vh";
+  margin: auto;
+  text-align: center;
+}
+.mainpage h1 {
+  margin: 0;
+  padding: 20px 0;
+}
+.hrClass {
+  size: "20%";
+}
